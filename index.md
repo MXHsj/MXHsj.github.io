@@ -9,5 +9,5 @@ Bio:
 M.S student in Robotics Engineering at Worcester Polytechnic Insititute
 
 Projects:
-[project experience](project.markdown)
+[project experience](project.md)
 
