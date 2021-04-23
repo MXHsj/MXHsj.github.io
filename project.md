@@ -1,5 +1,7 @@
-## My Projects
 ---
+title: Project Experiences
+layout: template
+filename: project.md
 ---
 
 ### On going projects
