@@ -1,6 +1,6 @@
 ---
 title: Project Experiences
-layout: template
+layout: default
 filename: project.md
 ---
 
