@@ -6,13 +6,13 @@ layout: default
 ---
 
 ## [Education]()
-- Worcester Polytechnic Institute | Worcester, MA, U.S | Aug. 2021 - present
+- Worcester Polytechnic Institute
     - Ph.D., Robotics Engineering
-- Worcester Polytechnic Institute | Worcester, MA, U.S | Aug. 2019 - May 2021
+- Worcester Polytechnic Institute
     - Master of Science, Robotics Engineering, **GPA: 4.0/4.0**
-- University of Detroit Mercy | Detroit, MI, U.S | Aug. 2018 - May 2019
+- University of Detroit Mercy
     - Bachelor of Engineering, Robotics and Mechatronics Sys. Eng., **GPA: 3.88/4.0**
-- Beijing University of Chemical Technology | Beijing, China | Sep. 2015 - Jun. 2018
+- Beijing University of Chemical Technology
     - Bachelor of Engineering, Mechanical Eng. and its Automation, **GPA: 3.78/4.33**  
 
 ## [Projects](project.md)
@@ -28,5 +28,5 @@ layout: default
 3. X. Ma, H. Sun, E. Xu, S. Cui, B. Yin and M. Faied, "FSM for Robot Target Search and Retrieval under Semi-constructed Environment," 2020 IEEE International Conference on Mechatronics and Automation (ICMA). [link](https://ieeexplore.ieee.org/document/9233729)
 
 ## [Experiences]()
-1. Philips Research North America | Cambridge, MA, U.S | May 2020 - Aug. 2020
+1. Philips Research North America &emsp; Cambridge, MA, U.S &emsp; May 2020 - Aug. 2020
     - research software engineer for medical ultrasound (intern)
