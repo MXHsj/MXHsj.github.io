@@ -9,11 +9,11 @@ layout: default
 - Worcester Polytechnic Institute
     - Ph.D., Robotics Engineering
 - Worcester Polytechnic Institute
-    - Master of Science, Robotics Engineering, **GPA: 4.0/4.0**
+    - Master of Science, Robotics Engineering
 - University of Detroit Mercy
-    - Bachelor of Engineering, Robotics and Mechatronics Sys. Eng., **GPA: 3.88/4.0**
+    - Bachelor of Engineering, Robotics and Mechatronics Sys. Eng.
 - Beijing University of Chemical Technology
-    - Bachelor of Engineering, Mechanical Eng. and its Automation, **GPA: 3.78/4.33**  
+    - Bachelor of Engineering, Mechanical Eng. and its Automation
 
 ## [Projects](project.md)
 
