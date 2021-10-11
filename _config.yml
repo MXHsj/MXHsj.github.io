@@ -22,17 +22,18 @@
 # personal info
 title: Xihan Ma
 author: Xihan Ma
-description: Bio: Ph.D student in Robotics Engineering at Worcester Polytechnic Insititute
-# social-network-links:
-email: xma4@wpi.edu
-# linkedin: https://www.linkedin.com/in/xihanma/
-# google-scholar: "https://scholar.google.com/citations?user=4brJi0QAAAAJ"
+description: ""
+
+social-network-links:
+  email: xma4@wpi.edu
+  linkedin: https://www.linkedin.com/in/xihanma/
+  google-scholar: "https://scholar.google.com/citations?user=4brJi0QAAAAJ"
 
 # navigation bar
-# navbar-links:
-#   Bio: "aboutme"
-#   Projects: 
-#   Publications:
+navbar-links:
+  Bio: "aboutme"
+  Projects: 
+  Publications:
   
 # profile photo
 avatar: "/assets/img/profile_pic1.jpg"
